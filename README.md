@@ -31,7 +31,7 @@ To set up the project, you need to have Python installed on your machine. You ca
 
 ## Usage
 
-To run the application, execute the following command in your terminal:
+To run the application, execute the following command in your terminal VSCODE:
 
 ```
 python src/main.py
@@ -52,6 +52,9 @@ Make sure to have an Excel file ready to be read by the application. The applica
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## Documentation
+https://www.python.org/about/gettingstarted/
 
 ## License
 
