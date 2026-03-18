@@ -1,48 +1,63 @@
-Senior developer
-In this crucial role within the Financial Crime Analytics team, you’ll provide technical leadership and direction to experienced analysts responsible for the development and delivery of reporting, analytics, business intelligence and related data projects supporting “Know Your Customer/Client” (KYC) and Customer Due Diligence (CDD).	En este puesto crucial dentro del equipo de Análisis de Delitos Financieros, proporcionarás liderazgo técnico y dirección a analistas experimentados responsables del desarrollo y la entrega de informes, análisis, inteligencia empresarial y proyectos de datos relacionados que respalden el proceso de "Conozca a su Cliente" (KYC) y la Debida Diligencia del Cliente (CDD).
-	
-	
-	
-You’ll design and build data models to fulfil the strategic data needs for the organisation, which facilitates efficient data management and the security to support Financial Crime decision-making.	Diseñarás y construirás modelos de datos para satisfacer las necesidades estratégicas de datos de la organización, lo que facilita la gestión eficiente de los datos y la seguridad para respaldar la toma de decisiones en materia de delitos financieros.
-	 
-	
-You’ll have the responsibility for managing and monitoring ETL (Extract, Transform, Load) workflows to ensuring data is accurately and efficiently transferred between systems. You’ll also identify areas of improvement within the existing data infrastructure, promoting the use of data mining and other technologies that align with the organisations needs and future scalability requirements.	Serás responsable de gestionar y supervisar los flujos de trabajo ETL (Extracción, Transformación y Carga) para garantizar que los datos se transfieran de forma precisa y eficiente entre sistemas. También identificarás áreas de mejora en la infraestructura de datos existente, promoviendo el uso de la minería de datos y otras tecnologías que se ajusten a las necesidades de la organización y a los futuros requisitos de escalabilidad.
-	
-	
-If you’ve experience in a similar role, this could be a great opportunity to develop your career.	 tienes experiencia en un puesto similar, esta podría ser una excelente oportunidad para desarrollar tu carrera profesional.
-We’re shaping the way we work through innovation, cutting-edge technology, collaboration and the freedom to explore new ideas. To succeed in this role, you will be responsible for:	Estamos transformando nuestra forma de trabajar mediante la innovación, la tecnología de vanguardia, la colaboración y la libertad de explorar nuevas ideas. Para alcanzar el éxito en este puesto, será responsable de:
-Supporting the Data Analysis & Management Information requirements for all Economic and Financial Crime Projects	Apoyar los requisitos de Análisis de Datos e Información de Gestión para todos los Proyectos de Delitos Económicos y Financieros.
-Supporting and creation of tools for Operational areas.	Apoyar y crear herramientas para las áreas operativas.
-Extracting and analysing large volumes of data from the bank’s data lake and various legacy platforms.	Extraer y analizar grandes volúmenes de datos del data lake del banco y de diversas plataformas heredadas.
-Helping to expand the existing data warehouse - reporting through MS SSRS and Tableau	Ayudar a expandir el almacén de datos existente, generando informes mediante MS SSRS y Tableau.
-Supporting BAU & Operational needs with data driven efficiency improvements.	Apoyar las necesidades operativas y de BAU con mejoras de eficiencia basadas en datos.
-Mentor and oversee project teams, fostering a culture of quality and continuous improvement	Orientar y supervisar a los equipos de proyecto, fomentando una cultura de calidad y mejora continua.
-Professional Experience 	Experiencia profesional
-        • Experience with database technologies (SQL), cloud solutions (AWS) and Snowflake [Required]	        •  Experiencia con tecnologías de bases de datos (SQL), soluciones en la nube (AWS) y Snowflake [Obligatorio] 
-        • Extensive SQL Server experience [Required]	        • Amplia experiencia con SQL Server [Obligatorio] 
-        • Data modelling experience (Both dimensional and OLTP) [Preferred]	        • Experiencia en modelado de datos (dimensional y OLTP) [Preferible] 
-        • Experience with reporting tools (Power BI & SSRS) [Preferred]	        • EXperiencia con herramientas de generación de informes (Power BI y SSRS) [Preferible] 
-        • Proven track record of automating manual processes [Required]	        • Experiencia demostrada en la automatización de procesos manuales [Obligatorio]
-	                
-Hard Skills:	Habilidades técnicas: 
-        • Advanced SQL query optimisation and performance tuning (Required)	        • Optimización avanzada de consultas SQL y ajuste del rendimiento (Obligatorio) 
-        • Stored procedures, triggers, views and indexing strategies (Required)	        • Procedimientos almacenados, desencadenadores, vistas y estrategias de indexación (Obligatorio) 
-        • Data modelling (Required)	        • Modelado de datos (Obligatorio)
-        • ETL / ETL Pipeline develaopment and maintenance (Required)	        •  Desarrollo y mantenimiento de ETL/canalizaciones ETL (Obligatorio) 
-        • Database design and schema management (Required)	        • Diseño de bases de datos y gestión de esquemas (Obligatorio) 
-        • Query execution (Required)	        • Ejecución de consultas (Obligatorio) 
-        • Snowflake datawarehouse development and administration (Preferred)	        • Desarrollo y administración de almacenes de datos Snowflake (Preferible) 
-        • AWS ecosystem: S3, Lambda, Glue, Redshift, Athena, IAM (Preferred)	        • Ecosistema AWS: S3, Lambda, Glue, Redshift, Athena, IAM (Preferible) Migración e integración de datos (Preferible) Automatización de flujos de trabajo de datos en AWS/Snowflake (Preferible) 
-        • Data Migration and Integration (Preferred)	        • Python o Scala para transcripciones de datos (Preferible) Herramientas de BI: Power BI (Preferible) 
-        • Automation of data workflows in AWS/Snowflake (Preferred)	        • Validación de datos, elaboración de perfiles y control de calidad (Obligatorio)
-        • Python or Scala for data transcripts (Preferred)	                
-        • BI Tools – Power BI (Preferred)
-        • Data Validation, profiling, quality assurance (Required)
-Soft Skills:	Habilidades interpersonales: 
-        • Analytical thinking (Required)	Pensamiento analítico (Obligatorio) 
-        • Problem solving (Required)	Resolución de problemas (Obligatorio) 
-        • Attention to detail (Required)	Atención al detalle (Obligatorio) 
-        • Team Player - Collaboration – works effectively with cross-functional teams (data engineers, analysts, DevOps) (Required)	Trabajo en equipo - Colaboración: trabaja eficazmente con equipos multifuncionales (ingenieros de datos, analistas, DevOps) (Obligatorio) Adaptabilidad (Obligatorio) 
-        • Adaptability (Required)	Responsabilidad del proyecto (Obligatorio) 
-        • Project Ownership (Required)	Gestión del tiempo (Obligatorio)
-        • Time Management (Required)	
+In this crucial role within the Financial Crime Analytics team, you’ll provide technical leadership and direction to experienced analysts responsible for the development and delivery of reporting, analytics, business intelligence and related data projects supporting “Know Your Customer/Client” (KYC) and Customer Due Diligence (CDD).
+
+You’ll design and build data models to fulfil the strategic data needs for the organisation, which facilitates efficient data management and the security to support Financial Crime decision-making.
+
+You’ll have the responsibility for managing and monitoring ETL (Extract, Transform, Load) workflows to ensuring data is accurately and efficiently transferred between systems. You’ll also identify areas of improvement within the existing data infrastructure, promoting the use of data mining and other technologies that align with the organisations needs and future scalability requirements.
+If you’ve experience in a similar role, this could be a great opportunity to develop your career.
+
+
+
+
+We’re shaping the way we work through innovation, cutting-edge technology, collaboration and the freedom to explore new ideas. To succeed in this role, you will be responsible for:
+Supporting the Data Analysis & Management Information requirements for all Economic and Financial Crime Projects
+Supporting and creation of tools for Operational areas.
+Extracting and analysing large volumes of data from the bank’s data lake and various legacy platforms.
+Helping to expand the existing data warehouse - reporting through MS SSRS and Tableau
+Supporting BAU & Operational needs with data driven efficiency improvements.
+Mentor and oversee project teams, fostering a culture of quality and continuous improvement
+
+What you bring:
+
+Our people are our greatest strength. Every individual contributes unique perspectives that make us stronger as a team and as an organisation. We’re enabling teams to go beyond by valuing who they are and empowering what they bring.
+The following requirements represent the knowledge, skills, and abilities essential for success in this role. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Professional Experience 
+
+Experience with database technologies (SQL), cloud solutions (AWS) and Snowflake [Required]
+Extensive SQL Server experience [Required]
+Data modelling experience (Both dimensional and OLTP) [Preferred]
+Experience with reporting tools (Power BI & SSRS) [Preferred]
+Proven track record of automating manual processes [Required]
+
+Education
+
+Experience designing data solutions specifically for financial services. [Required]
+Experience integrating data across cloud technologies, specifically AWS platform. [Preferred]
+Exposure to AI and machine learning analytics [Preferred]
+
+Hard Skills:
+
+Advanced SQL query optimisation and performance tuning (Required)
+Stored procedures, triggers, views and indexing strategies (Required)
+Data modelling (Required)
+ETL / ETL Pipeline develaopment and maintenance (Required)
+Database design and schema management (Required)
+Query execution (Required)
+Snowflake datawarehouse development and administration (Preferred)
+AWS ecosystem: S3, Lambda, Glue, Redshift, Athena, IAM (Preferred)
+Data Migration and Integration (Preferred)
+Automation of data workflows in AWS/Snowflake (Preferred)
+Python or Scala for data transcripts (Preferred)
+BI Tools – Power BI (Preferred)
+Data Validation, profiling, quality assurance (Required)
+
+Soft Skills:
+
+Analytical thinking (Required)
+Problem solving (Required)
+Attention to detail (Required)
+Team Player - Collaboration – works effectively with cross-functional teams (data engineers, analysts, DevOps) (Required)
+Adaptability (Required)
+Project Ownership (Required)
+Time Management (Required)
+
