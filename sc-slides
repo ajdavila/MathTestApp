@@ -1,0 +1,127 @@
+Slide 1 — Title
+Title: Security Champion Program for FC Intelligence Analytics
+
+Subtitle: Elevating security-by-design in analytics & ML workflows
+
+Speaker Notes: Welcome everyone. Today we’ll align on a pragmatic Security Champion model for FC Intelligence Analytics—how it reduces risk without slowing delivery, and what support we need from team leads.
+Today is about making security easier in FCIA by having a clear Security Champion role, Show benefits for FCIA delivery
+
+Slide 2 — Why Now?
+Expanding data footprint: model features, intelligence sources, PII/PCI adjacency
+
+Faster delivery cycles: analytics sprints, rapid model deployments
+
+Regulatory and stakeholder expectations: auditability, explainability, access governance
+
+Threat landscape: data exfiltration, supply-chain, prompt/data poisoning, shadow workflows
+
+Speaker Notes: Our risk increases with data volume, velocity, and dependency on third-party tooling. A champion model embeds security decisions where work happens—sprints, code reviews, and data operations.
+
+Slide 3 — What Is a Security Champion?
+A trusted member of the team with interest and insight in security
+
+Amplifies secure practices in the squad
+
+Supports security across the lifecycle: requirements → build → test → release
+
+Champion is a force multiplier inside the squad, not the security team.
+
+Liaison between the team and central security/risk/governance and CISo/BISO
+
+Enabler of secure design, not a blocker or auditor
+
+Time-bound role (10/20% capacity), with defined backlog items and KPIs
+
+Speaker Notes: A Champion is a multiplier: they surface risks early, coach peers, and keep us aligned with policy while preserving speed.
+
+Slide 4 — What a Champion Is Not
+Not the only person responsible for security (everyone owns it)
+Not the sole owner of security or an approvals gate
+Not a replacement for central security, legal, privacy, or audit
+Not a full-time role or a security “janitor” for the team
+
+Speaker Notes: Everyone still owns security. The Champion coordinates—and escalates thoughtfully when needed.
+
+Slide 5 — What Does a Security Champion Do?
+Education and sharing: curate guidance and bring it to standups or show-and-tells
+Sprint hygiene: ensure security acceptance criteria are added where relevant, ensure scans are reviewed and fixes are understood
+Escalation point: route questions and incidents early to CISO/BISO
+Keep inform the team with recent vulnerabilities or security actions.
+
+
+Slide 6 — FC Intelligence Analytics Context
+Workstreams: data ingestion, feature engineering, model training, analytics dashboards, model serving
+
+Tooling examples: Git, CI/CD, Python/R, notebooks, ML platforms, secrets managers, data warehouses/lakes, BI
+
+Data types: customer intel, transaction-derived features, third-party feeds, internal reports
+
+Speaker Notes: We will map risks and controls to the exact places where our work happens—repos, pipelines, notebooks, and BI layers.
+
+Slide 6 — Top Risks Mapped to Our Team
+Data Security: oversharing, weak access controls, insecure temp stores, lineage gaps
+
+Model/Analytics Integrity: data poisoning, unsecured training pipelines, unreviewed code/notebooks
+
+Secrets & Keys: credentials in notebooks or repos, local env leakage
+
+Third-Party/SaaS: frameworks, packages, extensions, connectors with unvetted risk
+
+Change Management: ad-hoc hotfixes, untracked model drift, missing approvals
+
+Compliance/Auditability: incomplete logs, missing model explainability, untagged datasets
+
+Speaker Notes: These are some of the risks that could  meaningfully affect our delivery and stakeholders—so controls must be practical and automated where possible.
+
+Slide 7 — Why FCIA Specifically Benefits
+We handle high-value data (intelligence sources, sensitive analytics outputs)
+
+We work in fast iterations (notebooks, pipelines, dashboards, models)
+
+We face strong auditability expectations: traceability, access governance, evidence
+
+Key risk patterns: oversharing data, weak access controls, secrets leakage, supply chain dependencies, incomplete logging
+
+In analytics, risk often comes from speed and convenience tooling: unmanaged libraries, local copies, ad-hoc shares.
+
+Slide 8 — Benefits to FCIA
+Less rework: catch issues early (secrets, access, dependency vulnerabilities)
+Faster sign-offs: better evidence for governance and service introduction
+Higher delivery confidence: fewer last-minute blocks from scanning or gates
+Shared security culture: routine habits instead of heroic fixes
+Scaling security across squads without overloading specialists
+Translate benefits into delivery: fewer surprise findings, smoother audits, quicker releases.
+
+
+Is posible if not exist before, create an FC Intelligence Analytics: Tailored Control Checklist
+Data classification tags applied to all curated and feature tables
+
+Group-based access only; monthly review of high-sensitivity datasets
+
+CI pipeline with SAST, dependency, secrets scans; block on criticals
+
+Notebook policy: outputs cleared, metadata scrubbed, no credentials
+
+Secrets exclusively in secrets manager; rotation policy documented
+
+Model registry gate with provenance, evaluation, and rollback metadata
+
+Lineage captured for ingestion→features→models→dashboards
+
+Alerting on anomalous data reads and model performance drift
+
+Third-party libraries pinned; SBOM produced per release
+
+
+FAQ
+
+How much time does a Champion need?
+Plan 10–20% of capacity. Concentrate on embedding controls into existing workflows to minimize overhead.
+
+
+What if scans block delivery?
+Use risk-based waivers with time-bound exceptions and remediation owners. Champions coordinate with security to tune false positives.
+
+
+Does every squad need a Champion?
+Yes—coverage should follow delivery lines. Smaller squads can share one, but ensure clear ownership and backups.
